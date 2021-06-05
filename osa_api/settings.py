@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#u0thg%_nxz2*bg8t8+7(ncc*vao+!@d7z4($3th&alw+d-(oi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["floating-ocean-85341.herokuapp.com", "127.0.0.1"]
+ALLOWED_HOSTS = ["floating-ocean-85341.herokuapp.com", "127.0.0.1", "localhost"]
 
 
 # Application definition
